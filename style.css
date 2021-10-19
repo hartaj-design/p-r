@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(to right top, #6b0b0b, #8a1310, #aa1d12, #ca2813, #eb3412);
+    color: white;
+}
+h1 {
+    color: rgba(0, 225, 255, 0.616);
+    font-size: 30px;
+}
+#image {
+   font-size: medium;
+   color: rgb(4, 128, 0);
+}
+#identify1 {
+    font-size: medium;
+    color: rgb(128, 0, 0);
+ }
+ #camera {
+     border: ridge;
+     width: 350px;
+     height: 300px;
+     
+ }
